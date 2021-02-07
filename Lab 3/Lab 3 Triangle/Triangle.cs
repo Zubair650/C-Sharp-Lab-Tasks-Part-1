@@ -8,10 +8,14 @@ namespace Lab_3
 {
     class Triangle
     {
-        private int x = 10;
-        private int y = 10;
-        private int z = 10;
-        void ShowInfo()
+        Triangle()
+        {
+            Console.WriteLine("Constructor called");
+        }
+        private int x ;
+        private int y ;
+        private int z ;
+        void ShowInfo(int x, int y, int z)
         {
             Console.WriteLine("1st side: " + x);
             Console.WriteLine("2nd side: " + y);
@@ -35,6 +39,7 @@ namespace Lab_3
         static void Main(string[] args)
         {
             Triangle t1 = new Triangle();
+            t1.ShowInfo(10, 10, 10);
             t1.TestTriangle();
         }
     }
