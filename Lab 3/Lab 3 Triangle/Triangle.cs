@@ -14,8 +14,8 @@ namespace Lab_3
         void ShowInfo()
         {
             Console.WriteLine("1st side: " + x);
-            Console.WriteLine("1st side: " + y);
-            Console.WriteLine("1st side: " + z);
+            Console.WriteLine("2nd side: " + y);
+            Console.WriteLine("3rd side: " + z);
         }
         void TestTriangle()
         {
