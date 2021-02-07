@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Course\Lab 3 Course\bin\Debug\Lab 3 Course.exe.config
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Course\Lab 3 Course\bin\Debug\Lab 3 Course.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Course\Lab 3 Course\bin\Debug\Lab 3 Course.pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Course\Lab 3 Course\obj\Debug\Lab 3 Course.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Course\Lab 3 Course\obj\Debug\Lab 3 Course.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Course\Lab 3 Course\obj\Debug\Lab 3 Course.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Course\Lab 3 Course\obj\Debug\Lab 3 Course.pdb
