@@ -1,0 +1,6 @@
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Student\Lab 3 Student\bin\Debug\Lab 3 Student.exe.config
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Student\Lab 3 Student\bin\Debug\Lab 3 Student.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Student\Lab 3 Student\bin\Debug\Lab 3 Student.pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Student\Lab 3 Student\obj\Debug\Lab 3 Student.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Student\Lab 3 Student\obj\Debug\Lab 3 Student.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 3\Lab 3 Student\Lab 3 Student\obj\Debug\Lab 3 Student.pdb
