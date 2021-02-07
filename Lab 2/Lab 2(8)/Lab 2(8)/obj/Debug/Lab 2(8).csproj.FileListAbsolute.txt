@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 2\Lab 2(8)\Lab 2(8)\bin\Debug\Lab 2(8).exe.config
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 2\Lab 2(8)\Lab 2(8)\bin\Debug\Lab 2(8).exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 2\Lab 2(8)\Lab 2(8)\bin\Debug\Lab 2(8).pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 2\Lab 2(8)\Lab 2(8)\obj\Debug\Lab 2(8).csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 2\Lab 2(8)\Lab 2(8)\obj\Debug\Lab 2(8).exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 2\Lab 2(8)\Lab 2(8)\obj\Debug\Lab 2(8).pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 2\Lab 2(8)\Lab 2(8)\obj\Debug\Lab 2(8).csprojAssemblyReference.cache
