@@ -1,1 +1,8 @@
 C:\Users\USER\OneDrive\Desktop\C# lab tasks\Single Dimensional Array\Single Dimensional Array\obj\Debug\Single Dimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Single Dimensional Array\Single Dimensional Array\bin\Debug\Single Dimensional Array.exe.config
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Single Dimensional Array\Single Dimensional Array\bin\Debug\Single Dimensional Array.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Single Dimensional Array\Single Dimensional Array\bin\Debug\Single Dimensional Array.pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Single Dimensional Array\Single Dimensional Array\obj\Debug\Single Dimensional Array.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Single Dimensional Array\Single Dimensional Array\obj\Debug\Single Dimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Single Dimensional Array\Single Dimensional Array\obj\Debug\Single Dimensional Array.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Single Dimensional Array\Single Dimensional Array\obj\Debug\Single Dimensional Array.pdb

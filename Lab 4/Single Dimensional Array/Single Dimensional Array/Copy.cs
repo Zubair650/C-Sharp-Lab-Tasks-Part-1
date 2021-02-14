@@ -17,13 +17,17 @@ namespace Single_Dimensional_Array
             arr[3] = 5;
             arr[4] = 6;
             int arrlength = arr.Length;
-            
+            Console.WriteLine("Main Array:");
+            foreach (int value in arr)
+            {
+                Console.WriteLine(value);
+            }
                 int[] arr2 = new int[arrlength];
                 Array.Copy(arr, arr2, arrlength);
-            
+                Console.WriteLine("Copied Array:");
                 foreach (int value in arr2)
                 {
-                    Console.WriteLine("Copied Array:"+ value);
+                    Console.WriteLine(value);
                 }
             }
         }
