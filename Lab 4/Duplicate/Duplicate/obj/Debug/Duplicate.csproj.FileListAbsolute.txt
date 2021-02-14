@@ -1,0 +1,6 @@
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Duplicate\Duplicate\bin\Debug\Duplicate.exe.config
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Duplicate\Duplicate\bin\Debug\Duplicate.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Duplicate\Duplicate\bin\Debug\Duplicate.pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Duplicate\Duplicate\obj\Debug\Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Duplicate\Duplicate\obj\Debug\Duplicate.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Lab 4\Duplicate\Duplicate\obj\Debug\Duplicate.pdb
