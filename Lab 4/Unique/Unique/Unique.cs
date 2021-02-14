@@ -14,28 +14,20 @@ namespace Single_Dimensional_Array
             arr3[0] = 2;
             arr3[1] = 2;
             arr3[2] = 1;
-            arr3[3] = 2;
-            int count = 0;
-            if (arr3[0] != arr3[1] && arr3[0] != arr3[2] && arr3[0] != arr3[3])
+            arr3[3] = 0;
+            
+            for (int i = 0; i < 5; i++)
             {
-                count++;
-            }
-            if (arr3[1] != arr3[0] && arr3[1] != arr3[2] && arr3[1] != arr3[3])
-            {
-                count++;
-            }
-            if (arr3[2] != arr3[0] && arr3[2] != arr3[1] && arr3[2] != arr3[3])
-            {
-                count++;
-            }
-            if (arr3[3] != arr3[0] && arr3[3] != arr3[1] && arr3[3] != arr3[2])
-            {
-                count++;
-            }
-            Console.WriteLine("Number of Unique elements:" + count);
+                Console.WriteLine("The Unique Elements are:");
+                for (int j = i + 1; j < 5; j++)
+                {
+                    if (arr3[i] != arr3[j])
+                    {
+                        Console.WriteLine(arr3[j]);
 
-
+                    }
+                }
+            }
         }
     }
 }
-
