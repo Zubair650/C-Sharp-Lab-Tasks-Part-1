@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Association\Association\Association\bin\Debug\Association.exe.config
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Association\Association\Association\bin\Debug\Association.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Association\Association\Association\bin\Debug\Association.pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Association\Association\Association\obj\Debug\Association.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Association\Association\Association\obj\Debug\Association.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Association\Association\Association\obj\Debug\Association.pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\Association\Association\Association\obj\Debug\Association.csprojAssemblyReference.cache
